@@ -1,0 +1,19 @@
+{
+    "name": "Cafe UTEC",
+    "short_name": "Coffee",
+    "description":"Bienvenidos a la cafeteria de UTEC",
+    "theme_color": "#bba694",
+    "background_color": "#bba694",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "lang":"es-SV",
+    "icons": [
+        {
+        "src": "./img/SeminarioPWA.png",
+        "type": "image/png",
+        "sizes": "512x183"
+        }
+    ]
+}
